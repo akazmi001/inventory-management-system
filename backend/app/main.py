@@ -24,6 +24,10 @@ def get_db():
     finally:
         db.close()
 
+@app.get("/")
+def read_root():
+    return {"message": "Inventor Management API"}
+
 # PRODUCT APIs
 @app.post("/products")
 def create_product(p: schemas.ProductCreate, db: Session = Depends(get_db)):
