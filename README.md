@@ -7,8 +7,8 @@ This application allows users to manage products, customers, and orders with pro
 
 ## 🚀 Live Demo
 
-* 🌐 Frontend: https://your-frontend-url.onrender.com
-* ⚙️ Backend API: https://your-backend-url.onrender.com/docs
+* 🌐 Frontend: https://inventory-management-system-1-dbt1.onrender.com/
+* ⚙️ Backend API:https://inventory-management-system-b2uj.onrender.com/
 
 ---
 
